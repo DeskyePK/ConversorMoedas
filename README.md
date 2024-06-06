@@ -1,4 +1,4 @@
-# Big Game Survey 
+# Conversor de Moeda
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/DeskyePK/ConversorMoedas/blob/main/LICENSE) 
 
 # Sobre o projeto
