@@ -1,0 +1,73 @@
+body {
+  font-family: "Outfit", sans-serif;
+  font-style: normal;
+  margin: 0;
+  padding: 0;
+  background-color: #8b4949;
+}
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 800px;
+  margin: 50px auto;
+  background-color: rgb(255, 255, 255);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.title {
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.converter {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.converter select {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.converter input{
+  width: 99%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.converter input {
+  margin-bottom: 10px;
+}
+.result {
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+  margin: 20px 0;
+}
+.rate {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #666;
+}
+.info {
+  text-align: center;
+  font-size: 14px;
+  color: #999;
+}
+.swap {
+  text-align: center;
+}
+.swap button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 20px;
+}
