@@ -21,12 +21,13 @@ https://deskyepk.github.io/ConversorMoedas/
 - HTML5
 - CSS3
 - JAVASCRIPT  (com jQuery)
-
-# Autor
+- 
 
 # API utilizadas
 
 - [API Conversor de Moedas invertexto](https://api.invertexto.com/api-conversor-moedas)
+
+# Autor
 
 Kaua Moita Pontes Mangueira
 
